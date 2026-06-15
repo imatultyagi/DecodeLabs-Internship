@@ -19,13 +19,13 @@ Processed an e-commerce sales dataset using Microsoft Excel by applying formulas
 ## Screenshots
 
 ### Raw Dataset
-![Raw Dataset](screenshots/input-sheet.png)
+![Raw Dataset](screenshots/dataset.png)
 
 ### Processed Output
-![Processed Output](screenshots/output-sheet.png)
+![Processed Output](screenshots/final-output.png)
 
 ### Formula Application
-![Formula Application](screenshots/formulas-used.png)
+![Formula Application](screenshots/formula.png)
 
 ## Skills Demonstrated
 - Data Processing
