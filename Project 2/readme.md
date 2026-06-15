@@ -111,23 +111,23 @@ Summarized important observations derived from statistical and distribution anal
 
 ### Basic Statistics
 
-![Basic Statistics](statistics.png)
+![Basic Statistics](screenshots/statistics.png)
 
 ### Payment Method Distribution
 
-![Payment Method Analysis](payment-method-analysis.png)
+![Payment Method Analysis](screenshots/payment-method-analysis.png)
 
 ### Order Status Distribution
 
-![Order Status Analysis](order-status-analysis.png)
+![Order Status Analysis](screenshots/order-status-analysis.png)
 
 ### Referral Source Distribution
 
-![Referral Source Analysis](referral-source-analysis.png)
+![Referral Source Analysis](screenshots/referral-source-analysis.png)
 
 ### Final Key Findings
 
-![Final Findings](final-findings.png)
+![Final Findings](screenshots/final-findings.png)
 
 ---
 
