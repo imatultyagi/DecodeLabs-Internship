@@ -133,17 +133,21 @@ Summarized important observations derived from statistical and distribution anal
 
 ## Project Structure
 
-```text
-E-Commerce-Sales-Data-Analysis/
+Project-2-E-Commerce-Sales-Analysis/
 │
+├── dataset_P2.xlsx
+│   
 ├── analysis.xlsx
-├── dataset P2.xlsx
-├── statistics.png
-├── payment-method-analysis.png
-├── order-status-analysis.png
-├── referral-source-analysis.png
-├── final-findings.png
+│
+├── Screenshots/
+│   ├── basic-statistics.png
+│   ├── payment-method-analysis.png
+│   ├── order-status-analysis.png
+│   ├── referral-source-analysis.png
+│   └── final-key-findings.png
+│
 └── README.md
+
 ```
 
 ---
