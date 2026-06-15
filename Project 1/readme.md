@@ -22,7 +22,7 @@ Processed an e-commerce sales dataset using Microsoft Excel by applying formulas
 ![Raw Dataset](screenshots/dataset.png)
 
 ### Processed Output
-![Processed Output](screenshots/final-output.png)
+![Processed Output](screenshots/final_output.png)
 
 ### Formula Application
 ![Formula Application](screenshots/formula.png)
